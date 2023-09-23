@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-[Video Walkthrough](https://drive.google.com/file/d/1Wxo1xbqSQjfGlPHOhXbJ3Sg-7j553nCz/view?usp=sharing) 
+<img src='https://submissions.us-east-1.linodeobjects.com/web102/jR3GfDta.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
