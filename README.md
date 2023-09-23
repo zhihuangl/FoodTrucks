@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 <img src='https://submissions.us-east-1.linodeobjects.com/web102/jR3GfDta.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+https://submissions.us-east-1.linodeobjects.com/web102/jR3GfDta.gif
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
